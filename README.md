@@ -27,3 +27,7 @@ Run website
 ```
 bundle exec jekyll serve --incremental
 ```
+
+## CSS
+
+assets/css/mystyles.css

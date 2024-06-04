@@ -163,7 +163,7 @@ th {
     text-align: inherit; }
 
 html {
-  background-color: #EFF0EB;
+  background-color: rgba(227, 243, 255, 0.4);
   font-size: 16px;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -203,13 +203,13 @@ body {
   line-height: 1.5; }
 
 a {
-  color: #016163;
+  color: #008FFF;
   cursor: pointer;
   text-decoration: none; }
   a strong {
     color: currentColor; }
   a:hover {
-    color: #FA7C91; }
+    color: #008FFF; }
 
 code {
   background-color: whitesmoke;
@@ -305,7 +305,7 @@ table th {
     margin-right: calc(-0.5em - 1px); }
   .button:hover, .button.is-hovered {
     border-color: #D0D1CD;
-    color: #FA7C91; }
+    color: #008FFF; }
   .button:focus, .button.is-focused {
     border-color: #485fc7;
     color: #363636; }
@@ -594,11 +594,11 @@ table th {
         box-shadow: none;
         color: #fff; }
   .button.is-primary {
-    background-color: #8A4D76;
+    background-color: #008FFF;
     border-color: transparent;
     color: #fff; }
     .button.is-primary:hover, .button.is-primary.is-hovered {
-      background-color: #82486f;
+      background-color: #008FFF;
       border-color: transparent;
       color: #fff; }
     .button.is-primary:focus, .button.is-primary.is-focused {
@@ -611,12 +611,12 @@ table th {
       border-color: transparent;
       color: #fff; }
     .button.is-primary[disabled], fieldset[disabled] .button.is-primary {
-      background-color: #8A4D76;
-      border-color: #8A4D76;
+      background-color: #008FFF;
+      border-color: #008FFF;
       box-shadow: none; }
     .button.is-primary.is-inverted {
       background-color: #fff;
-      color: #8A4D76; }
+      color: #008FFF; }
       .button.is-primary.is-inverted:hover, .button.is-primary.is-inverted.is-hovered {
         background-color: #f2f2f2; }
       .button.is-primary.is-inverted[disabled], fieldset[disabled] .button.is-primary.is-inverted {
@@ -659,7 +659,7 @@ table th {
         color: #fff; }
     .button.is-primary.is-light {
       background-color: #f8f2f6;
-      color: #9d5886; }
+      color: #008FFF; }
       .button.is-primary.is-light:hover, .button.is-primary.is-light.is-hovered {
         background-color: #f3eaf0;
         border-color: transparent;
@@ -980,7 +980,7 @@ table th {
       border-color: transparent;
       color: #fff; }
       .button.is-danger:focus:not(:active), .button.is-danger.is-focused:not(:active) {
-        box-shadow: 0 0 0 0.125em rgba(241, 70, 104, 0.25); }
+        box-shadow: 0 0 0 0.125em #008FFF; }
     .button.is-danger:active, .button.is-danger.is-active {
       background-color: #ef2e55;
       border-color: transparent;
@@ -1033,14 +1033,14 @@ table th {
         box-shadow: none;
         color: #fff; }
     .button.is-danger.is-light {
-      background-color: #feecf0;
+      background-color: #008FFF;
       color: #cc0f35; }
       .button.is-danger.is-light:hover, .button.is-danger.is-light.is-hovered {
-        background-color: #fde0e6;
+        background-color: #008FFF;
         border-color: transparent;
         color: #cc0f35; }
       .button.is-danger.is-light:active, .button.is-danger.is-light.is-active {
-        background-color: #fcd4dc;
+        background-color: #008FFF;
         border-color: transparent;
         color: #cc0f35; }
   .button.is-small {

@@ -1,4 +1,6 @@
-# Website juliakaltenborn.github.io
+# Website ML4Cryo
+
+This is based on Julia Kaltenborn's website.
 
 ## Installation
 Get:

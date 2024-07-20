@@ -20,36 +20,54 @@ $turq: #aecdc4;
 $neon-aqua: #85ffe7;
 $neon-aqua-light: #e5fffa;
 
-$warning: $marine-lighter;
-$success: $neon-aqua;
-$info: $neon-aqua-light;
+// Overwrite with ML4cryo properties
+$lightbackground: #ECF1F4;
+$darkteal: #156082;
+$blackteal: #162E3E;
+$darkerteal: #224760;
+$tealhighlight: #55a9cf;
 
+// Julia: $warning: $marine-lighter;
+// Julia: $success: $neon-aqua;
+// Julia: $info: $neon-aqua-light;
+
+$warning: $tealhighlight;
 
 // Update Bulma's global variables
 $family-sans-serif: "Nunito", sans-serif;
 $grey-dark: $brown;
-$black: $marine-darker;
-$black-bis: $marine-darker;
+
+// Julia: $black: $marine-darker;
+$black: $blackteal;
+// Julia: $black-bis: $marine-darker;
+$black-bis: $blackteal;
+//Julia: $real-black: hsl(0, 0%, 4%);
 $real-black: hsl(0, 0%, 4%);
 //$grey-darker: $marine-darker;
-$grey-light: $beige-light;
-$primary: $purple;
-$link: $marine-darker; //$pink;
+//Julia $grey-light: $beige-light;
+$grey-light: $lightbackground;
+// Julia: $primary: $purple;
+$primary: $darkteal;
+$link: $tealhighlight; //$pink;
 //$link-active: $pink;
-$link-hover: $pink;
+//Julia: $link-hover: $pink;
+$link-hover: $tealhighlight;
 //$link-focus: $pink;
 //$widescreen-enabled: false;
 $fullhd-enabled: false;
 
 // navbar
 // phone
-$navbar-burger-color: $purple;
+// $navbar-burger-color: $purple;
+$navbar-burger-color: $darkerteal;
 //$navbar-color: $purple;
 // $navbar-background-color: $black;
 // general
-$navbar-item-color: $real-black;
+// Julia: $navbar-item-color: $real-black;
+$navbar-item-color: $darkteal;
 // $navbar-item-background-color: $black;
-$navbar-item-hover-color: $pink;
+// Julia: $navbar-item-hover-color: $pink;
+$navbar-item-hover-color: $tealhighlight;
 //$navbar-item-hover-background-color: $beige-light;
 // $navbar-dropdown-arrow: #primary;
 // $navbar-tab-active-color: #primary;
@@ -60,14 +78,13 @@ $navbar-item-hover-color: $pink;
 // $navbar-tab-active-background-color: $white;
 
 // footer
-footer{
-    padding: 1.75rem 1rem 1.75rem !important;
+footer {
+  padding: 1.75rem 1rem 1.75rem !important;
 }
 
-
-
 // Update some of Bulma's component variables
-$body-background-color: $beige-lighter;
+// Julia: $body-background-color: $beige-lighter;
+$body-background-color: $lightbackground;
 //$control-border-width: 2px;
 //$input-border-color: transparent;
 //$input-shadow: none;
@@ -88,14 +105,13 @@ $size-8: 0.5rem !default;
 @import "../julias-bulma/bulma/sass/layout/hero.sass";
 @import "../julias-bulma/bulma/sass/layout/section.sass";
 
-.topFixedBar
-{
-    position: fixed;
-    top: 0;
-    width: 100%;
-    background: $white;
-    height: 3.5rem;
-    z-index: 1;
+.topFixedBar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: $white;
+  height: 3.5rem;
+  z-index: 1;
 }
 
 .card {

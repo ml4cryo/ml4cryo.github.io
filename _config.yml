@@ -16,10 +16,10 @@
 title: ML4Cryo
 tagline: Machine learning for the cryosphere
 email: ml4cryo@gmail.com
-twitter_username: 
+twitter_username: ml4cryo
 github_username:  ml4cryo
 description: Machine learning for the Cryosphere (ML4cryo) is a research community focused on the intersection of machine learning and the cryospheric sciences. Our aim is to facilitate the integration of both communities, to steward impactful collaboration and thereby advance science.
-author: Kim Bente
+author: Kim Bente and Julia Kaltenborn
 url: https://github.com/ml4cryo
 logo: /assets/images/favicon.png
 
@@ -47,21 +47,6 @@ defaults:
   - scope:
       path: ""
       type: "news"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "fieldwork"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "volunteering"
     values:
       layout: "page"
 

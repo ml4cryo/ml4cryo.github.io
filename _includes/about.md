@@ -1,5 +1,5 @@
 <!-- About heading is already included -->
-ML4Cryo is a research community initiated by Julia Kaltenborn, Andrew McDonald and Kim Bente.
+ML4Cryo is a research community initiated by Julia Kaltenborn, Andrew McDonald, and Kim Bente.
 
 ## Review paper
 
@@ -12,9 +12,9 @@ We are currently working on a review paper to capture the current state of machi
 
 ## Vision & Mission
 
-- COP29
+<!-- - COP29
 - NeurIPS workshop
 - Grants for field work
-- International Polar Year
+- International Polar Year -->
 
 

@@ -308,12 +308,12 @@ table th {
     color: #55a9cf; }
   .button:focus, .button.is-focused {
     border-color: #485fc7;
-    color: #363636; }
+    color: #aecdc4; }
     .button:focus:not(:active), .button.is-focused:not(:active) {
       box-shadow: 0 0 0 0.125em rgba(85, 169, 207, 0.25); }
   .button:active, .button.is-active {
     border-color: #757763;
-    color: #363636; }
+    color: #aecdc4; }
   .button.is-text {
     background-color: transparent;
     border-color: transparent;

@@ -1,0 +1,33 @@
+- fullname: Julia Kaltenborn
+  photo: julia_kaltenborn.jpg
+  pronouns: "she/her"
+  affiliation: "McGill University & Mila- Quebec AI Institute"
+  bio: I am a PhD student at McGill University and Mila, working on machine learning applications for snow science. I am always down for a ski-tour :) 
+  committee: Co-Founder
+  email: julia.kaltenborn@mila.quebec
+  alttext: Julia has white skin, blue eyes, long fair hair that looks slightly tousled in that pic.
+  website: https://liellnima.github.io
+  twitter: https://twitter.com/JuliaKaltenborn
+  linkedin: https://ca.linkedin.com/in/jkaltenborn
+- fullname: Kim Bente
+  photo: kim_bente.jpg
+  pronouns: "she/her"
+  affiliation: "University of Sydney"
+  bio: "[!] Your Text"
+  committee: Co-Founder
+  email: kim.bente@sydney.edu.au
+  alttext: "[!] Description of your pic"
+  website: https://kimbente.com
+  twitter: https://twitter.com/bente_kim
+  linkedin: https://www.linkedin.com/in/kim-bente-626048151/
+- fullname: Andrew McDonald
+  photo: andrew_mcdonald.jpg
+  pronouns: "he/him"
+  affiliation: "University of Cambridge & British Antarctic Survey"
+  bio: "[!] Your Text"
+  committee: Co-Founder
+  email: arm99@cam.ac.uk
+  alttext: "[!] Description of your pic"
+  website: https://ampersandmcd.com/
+  twitter: https://twitter.com/ampersandmcd
+  linkedin: https://www.linkedin.com/in/ampersandmcd/

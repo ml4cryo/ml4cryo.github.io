@@ -3,21 +3,12 @@ layout: page
 title: Events
 permalink: /events
 ---
-<div class="content">
-  We are currenlty working on getting ML4Cryo off the ground, including writing a review paper about <b>Machine Learning for the cryosphere</b>, intended to serve as a foundations for this interdisciplinary research community. Therefore, as of now, mid 2024, we are not organising our own events beyond commitee meetings and meetings for the review paper.
-  <br>
-  Nonethless, below we are listing relevant existing conferences and events:
 
+{% capture events %}{% include events.md %}{% endcapture %}
+<div class = "content">
+{{ events | markdownify }}
 </div>
 
-<div class="content">
-  <a href="https://github.com/liellnima/ml4cryo ">GitHub</a>: Collection of ML4Cryo literature. 
-  <br>
-  <a href="https://join.slack.com/t/ml4cryo/shared_invite/zt-2iz6mgjf4-iL3nqX3oOgahvc79deU4jA">Slack Space</a>: Not officially launched yet, but please join if you are interested.
-  <br>
-  Mailing List: In Progress.
-  <h1 class="title is-size-4">Relevant conferences & workshops</h3>
-</div>
 
 <div class="columns is-multiline">
 {% assign venues = site.data.ml4cryo-venues %}

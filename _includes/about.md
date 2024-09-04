@@ -73,7 +73,7 @@ ML4Cryo is a research community initiated by Julia Kaltenborn, Andrew McDonald, 
 {% assign people = site.data.team | sample: site.data.team.size %}
 {% for person in people %}
   {% assign side = forloop.index0 | modulo: 2 %}
-    {% if side == 0 %}
+    {% if side == 1 %}
       {% include team-card.html %}
     {% else %}
       {% include team-card.html %}

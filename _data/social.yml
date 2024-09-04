@@ -12,3 +12,9 @@
     source: fa
     name: fa-github
     type: fab
+- name: Twitter
+  link: https://x.com/ml4cryo
+  icon:
+    source: fa
+    name: fa-twitter
+    type: fab

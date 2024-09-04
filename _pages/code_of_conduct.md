@@ -85,7 +85,7 @@ There is no deadline by which to make a report.
 ### Moderation Committee
 The current moderation committee is:
 - Julia Kaltenborn, McGill University, Canada (she/her)
-- Kim Bente, University of Sidney, Australia (she/ her)
+- Kim Bente, University of Sydney, Australia (she/ her)
 - Andrew McDonald, Cambridge University, United Kingdom (he/him)
 
 All admin and moderators are volunteer positions and proceed at a "best effort". Moderation decisions are not that of an individual but that of the moderation committee. 

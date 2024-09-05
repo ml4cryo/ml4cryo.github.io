@@ -4,7 +4,7 @@ title: Code of Conduct
 permalink: /code_of_conduct
 ---
 ## ML4Cryo
-ML4Cryo is a community forum, consisting of a Slack Space and an email-list, for the global community working at the intersection of the cryosphere and machine learning. The community tools (Slack Space and email list) are used for for announcements including job advertisements, high-impact and high-relevance journal postings, obituaries, broad questions, call-for-papers, conference notifications, and other such community-relevant communications. ML4Cryo welcomes a diverse set of members at all scientific career stages including non-scientists, technicians, practitioners, and commercial enterprises.
+ML4Cryo is a community forum, consisting of a Slack Space and an email-list, for the global community working at the intersection of the cryosphere and machine learning. The community tools (Slack Space and email list) are used for announcements including job advertisements, high-impact and high-relevance journal postings, obituaries, broad questions, call-for-papers, conference notifications, and other such community-relevant communications. ML4Cryo welcomes a diverse set of members at all scientific career stages including non-scientists, technicians, practitioners, and commercial enterprises.
 
 
 **ML4Cryo champions equality, diversity, and inclusivity within the community. Harassment of members is not tolerated.**

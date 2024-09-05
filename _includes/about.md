@@ -40,7 +40,7 @@ This is the right place for you, if you do not want to miss the most important d
 
 Twitter might be the more regular, less filtered, and less consistent option.
 
-The Mailing List is a form of community-led newsletter. Once a month you will receive a collection of the most important news. Everyone who is part of the community can send requests of news items to be included.
+The Mailing List is a form of community-lead newsletter. Once a month you will receive a collection of the most important news. Everyone who is part of the community can send requests of news items to be included.
 
 This is the right place to hear about conference-sessions, workshops, and other events, as well as job announcements, highlighted papers and datasets and funding opportunities.
 

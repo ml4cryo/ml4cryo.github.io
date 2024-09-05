@@ -6,7 +6,7 @@
   skip: False
 
 - title: Newsletter
-  description: Monthly distilled updates, including paper, events, and jobs.
+  description: Monthly distilled updates, including papers, events, and jobs.
   link: https://tinyurl.com/join-mail-ml4cryo
   qr: newsletter_qr.png
   order: 1

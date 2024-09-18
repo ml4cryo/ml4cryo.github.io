@@ -8,8 +8,8 @@ title: Home
           <img src = "/assets/images/icon.png">
         </figure>
       </div>
-      <div class = "column is-two-thirds content">
-        <p class = "title is-1">{{ site.title }}</p>
+      <div class = "column is-two-thirds content" style="color: #224760">
+        <p class = "title is-1" style = "color: #224760">{{ site.title }}</p>
         {% capture description %}{% include description.md %}{% endcapture %}
         {{ description | markdownify }}
         <br>

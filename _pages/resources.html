@@ -4,6 +4,14 @@ title: Resources
 permalink: /resources
 ---
 
-<div class = "content">
-  We will be populating this page to share data sets, research, research groups, grants, opportunities and initives related to machine learning for the cryosphere.
+{% capture resources %}{% include resources.md %}{% endcapture %}
+<div class="content" style="color: #224760;">
+  {{ resources | markdownify }}
+</div>
+
+<div class="columns is-multiline">
+  {% assign resources = site.data.resources %}
+  {% for item in resources %}
+  {% include resources-item.html %}
+  {% endfor %}
 </div>

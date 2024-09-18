@@ -40,3 +40,5 @@ _sass/main.scss
 [see sass website](https://sass-lang.com/)
 
 
+insert `style="color: #224760;"'
+

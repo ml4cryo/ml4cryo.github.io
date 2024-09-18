@@ -9,7 +9,7 @@
 // Set your brand colors
 $purple: #8A4D76;
 $pink: #FA7C91;
-$brown: #757763;
+$brown: #233a4a;
 $beige-light: #D0D1CD;
 $beige-lighter: #EFF0EB;
 $marine-lighter: #a8d4c7;
@@ -39,7 +39,8 @@ $grey-dark: $brown;
 
 $black: $blackteal;
 $black-bis: $blackteal;
-$real-black: hsl(0, 0%, 4%);
+$real-black: $blackteal;
+// $real-black: hsl(0, 0%, 4%);
 //$grey-darker: $marine-darker;
 $grey-light: $lightbackground;
 $primary: $darkteal;
@@ -82,7 +83,6 @@ $body-background-color: $lightbackground;
 //$control-border-width: 2px;
 //$input-border-color: transparent;
 //$input-shadow: none;
-
 
 $size-8: 0.5rem !default;
 

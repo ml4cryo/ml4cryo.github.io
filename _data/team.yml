@@ -1,7 +1,7 @@
 - fullname: Julia Kaltenborn
   photo: julia_kaltenborn.jpg
   pronouns: "she/her"
-  affiliation: "McGill University & Mila- Quebec AI Institute"
+  affiliation: "McGill University & Mila - Quebec AI Institute"
   bio: I am a PhD student supervised by David Rolnick, working on machine learning applications for snow science. I am always down for a ski-tour :) 
   committee: Co-Founder
   email: julia.kaltenborn@mila.quebec
@@ -13,10 +13,10 @@
   photo: kim_bente.jpg
   pronouns: "she/her"
   affiliation: "University of Sydney"
-  bio:  "I am a second year Data Science PhD student supervised by Prof Fabio Ramos from NVIDIA."
+  bio:  "Kim is a final-year PhD student at the School of Computer Science, at The University of Sydney, Australia.  She is supervised by Prof Fabio Ramos (NVIDIA and University of Sydney) and A/Prof Roman Marchant (The University of Technology Sydney) and part of the <a href='https://darecentre.org.au/'>ARC Industrial Transformation Training Centre for Data Analytics for Resources and Environments (DARE)</a>. Her research focuses on developing probabilistic machine learning models for environmental monitoring and forecasting for the Antarctic ice sheet. Her research interests span geospatial modelling, kernel methods, Bayesian Optimisation, sensor placement, remote sensing, climate science, super-resolution, and uncertainty quantification."
   committee: Co-Founder
   email: kim.bente@sydney.edu.au
-  alttext: "[!] Description of your pic"
+  alttext: "Picture of Kim Bente smiling at the camera in the Sydney sun."
   website: https://kimbente.com
   twitter: https://twitter.com/bente_kim
   linkedin: https://www.linkedin.com/in/kim-bente-626048151/
@@ -24,10 +24,10 @@
   photo: andrew_mcdonald.jpg
   pronouns: "he/him"
   affiliation: "University of Cambridge & British Antarctic Survey"
-  bio: "PhD Student working alongside Scott Hosking and Rich Turner to advance the intersection of machine learning and climate science."
+  bio: "Andrew is a PhD Student in the <a href='https://ai4er-cdt.esc.cam.ac.uk/'>AI4ER CDT</a> at the University of Cambridge and <a href='https://www.bas.ac.uk/'>British Antarctic Survey</a> working alongside <a href='https://scotthosking.com/'>Scott Hosking</a> and Rich Turner to advance the intersection of machine learning and climate science. His research is focused on improving sea ice forecasing with diffusion models."
   committee: Co-Founder
   email: arm99@cam.ac.uk
-  alttext: "[!] Description of your pic"
+  alttext: "Picture of Andrew"
   website: https://ampersandmcd.com/
   twitter: https://twitter.com/ampersandmcd
   linkedin: https://www.linkedin.com/in/ampersandmcd/

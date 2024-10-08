@@ -197,7 +197,7 @@ pre {
   font-family: monospace; }
 
 body {
-  color: #757763;
+  color: #233a4a;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.5; }
@@ -250,7 +250,7 @@ fieldset {
 pre {
   -webkit-overflow-scrolling: touch;
   background-color: whitesmoke;
-  color: #757763;
+  color: #233a4a;
   font-size: 0.875em;
   overflow-x: auto;
   padding: 1.25rem 1.5rem;
@@ -312,12 +312,12 @@ table th {
     .button:focus:not(:active), .button.is-focused:not(:active) {
       box-shadow: 0 0 0 0.125em rgba(85, 169, 207, 0.25); }
   .button:active, .button.is-active {
-    border-color: #757763;
+    border-color: #233a4a;
     color: #aecdc4; }
   .button.is-text {
     background-color: transparent;
     border-color: transparent;
-    color: #757763;
+    color: #233a4a;
     text-decoration: underline; }
     .button.is-text:hover, .button.is-text.is-hovered, .button.is-text:focus, .button.is-text.is-focused {
       background-color: whitesmoke;
@@ -1198,7 +1198,7 @@ table th {
   align-items: center;
   background-color: whitesmoke;
   border-radius: 4px;
-  color: #757763;
+  color: #233a4a;
   display: inline-flex;
   font-size: 0.75rem;
   height: 2em;
@@ -1494,7 +1494,7 @@ a.tag:hover {
     font-size: 0.75rem; }
 
 .subtitle {
-  color: #757763;
+  color: #233a4a;
   font-size: 1.25rem;
   font-weight: 400;
   line-height: 1.25; }
@@ -2059,7 +2059,7 @@ a.tag:hover {
 
 .file-cta {
   background-color: whitesmoke;
-  color: #757763; }
+  color: #233a4a; }
 
 .file-name {
   border-color: #dbdbdb;
@@ -2254,7 +2254,7 @@ a.tag:hover {
   .control.has-icons-left .input:focus ~ .icon,
   .control.has-icons-left .select:focus ~ .icon, .control.has-icons-right .input:focus ~ .icon,
   .control.has-icons-right .select:focus ~ .icon {
-    color: #757763; }
+    color: #233a4a; }
   .control.has-icons-left .input.is-small ~ .icon,
   .control.has-icons-left .select.is-small ~ .icon, .control.has-icons-right .input.is-small ~ .icon,
   .control.has-icons-right .select.is-small ~ .icon {

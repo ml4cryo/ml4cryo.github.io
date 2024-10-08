@@ -1,17 +1,23 @@
-# Website ML4Cryo
+# ML4Cryo website
 
-This is based on Julia Kaltenborn's website.
+## Template
+
+This website is based on Julia Kaltenborn's personal website.
 
 ## Installation
-Get:
+
+The following packages/software are needed to build the website:
 - bundle
 - sass stuff
 - ruby
 - gem
 
-## Usage
+## Commands for building
 
-Watch changes in your css file:
+Ideally run the following commands in separate terminal tabs. 
+
+The following is a SASS (Syntactically Awesome Stylesheets) command used for converting a .scss file into a .css file while continuously watching for changes. When the source scss file changes it automatically recompiles the target css file.
+
 ```
 sass --watch _sass/mystyles.scss:assets/css/mystyles.css
 ```
@@ -29,7 +35,7 @@ Run website (in separate terminal) e.g. http://127.0.0.1:4000
 bundle exec jekyll serve --incremental
 ```
 
-## CSS
+## CSS structure
 
 assets/css/mystyles.css
 
@@ -39,6 +45,9 @@ _sass/main.scss
 
 [see sass website](https://sass-lang.com/)
 
+## Structure
 
+
+## Colors
 insert `style="color: #224760;"'
 

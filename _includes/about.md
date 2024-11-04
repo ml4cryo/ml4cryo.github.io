@@ -9,6 +9,10 @@ To melt our communities together, we do the following:
 
 The website you are on, is supposed to be the entry point, where you can choose how exactly you want to interact with the broader community :)
 
+<!-- <br><br>
+    ML4Cryo brings together experts from cryospheric disciplines, machine learning, and related fields to advance reserach in areas such as sea ice forecasting, ice sheet modelling, and other impactful yet challenging problems concerning the frozen parts of the Earth system, also known as <i>the croysphere</i>. ML4Cryo was founded in 2024 by PhD students Julia, Andrew, and Kim - together representing three different continents - to provide a platform for this growing community, to foster collaboration, and facilitate mutual support on shared scientific endeavors. 
+    <i>'While ice expands as it freezes, the ML4Cryo community shall expand as it melts.'</i> -->
+
 <!-- ## Vision & Mission
 Our vision is to build a community in which machine learning and cryospheric are thought together.
 

@@ -5,13 +5,14 @@ permalink: /resources
 ---
 
 {% capture resources %}{% include resources.md %}{% endcapture %}
-<div class="content" style="color: #224760;">
-  {{ resources | markdownify }}
-</div>
-
-<div class="columns is-multiline" style = "color: #224760">
-  {% assign resources = site.data.resources %}
-  {% for item in resources %}
-  {% include resources-item.html %}
-  {% endfor %}
+<div class="content">
+  <div class="content is-full" , style="color: #224760;">
+    {{ resources | markdownify }}
+  </div>
+  <div class="content" , style="color: #224760">
+    {% assign resources = site.data.resources %}
+    {% for item in resources %}
+    {% include resources-item.html %}
+    {% endfor %}
+  </div>
 </div>

@@ -3637,6 +3637,9 @@ a.navbar-item,
       .section.is-large {
         padding: 18rem 6rem; } }
 
+.h1 {
+  color: #224760; }
+
 .topFixedBar {
   position: fixed;
   top: 0;

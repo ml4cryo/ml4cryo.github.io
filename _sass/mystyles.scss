@@ -99,6 +99,11 @@ $size-8: 0.5rem !default;
 @import "../julias-bulma/bulma/sass/layout/hero.sass";
 @import "../julias-bulma/bulma/sass/layout/section.sass";
 
+//KB try
+.h1{
+  color: #224760;
+}
+
 .topFixedBar {
   position: fixed;
   top: 0;

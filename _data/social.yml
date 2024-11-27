@@ -18,9 +18,9 @@
     source: fa
     name: fa-twitter
     type: fab
-- name: Bluesky
-  link: https://bsky.app/profile/ml4cryo.bsky.social
-  icon:
-    source: fa
-    name: fa-bluesky
-    type: fab
+# - name: Bluesky
+#   link: https://bsky.app/profile/ml4cryo.bsky.social
+#   icon:
+#     source: fa
+#     name: fa-bluesky
+#     type: fab
